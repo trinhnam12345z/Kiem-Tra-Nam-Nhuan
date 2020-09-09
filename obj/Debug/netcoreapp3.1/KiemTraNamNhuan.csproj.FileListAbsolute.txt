@@ -10,3 +10,16 @@ C:\Users\PC\source\repos\KiemTraNamNhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan
 C:\Users\PC\source\repos\KiemTraNamNhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.dll
 C:\Users\PC\source\repos\KiemTraNamNhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.pdb
 C:\Users\PC\source\repos\KiemTraNamNhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.genruntimeconfig.cache
+E:\C#\Kiem-Tra-Nam-Nhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.csprojAssemblyReference.cache
+E:\C#\Kiem-Tra-Nam-Nhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.AssemblyInfoInputs.cache
+E:\C#\Kiem-Tra-Nam-Nhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.AssemblyInfo.cs
+E:\C#\Kiem-Tra-Nam-Nhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.csproj.CoreCompileInputs.cache
+E:\C#\Kiem-Tra-Nam-Nhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.dll
+E:\C#\Kiem-Tra-Nam-Nhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.pdb
+E:\C#\Kiem-Tra-Nam-Nhuan\bin\Debug\netcoreapp3.1\KiemTraNamNhuan.exe
+E:\C#\Kiem-Tra-Nam-Nhuan\bin\Debug\netcoreapp3.1\KiemTraNamNhuan.deps.json
+E:\C#\Kiem-Tra-Nam-Nhuan\bin\Debug\netcoreapp3.1\KiemTraNamNhuan.runtimeconfig.json
+E:\C#\Kiem-Tra-Nam-Nhuan\bin\Debug\netcoreapp3.1\KiemTraNamNhuan.runtimeconfig.dev.json
+E:\C#\Kiem-Tra-Nam-Nhuan\bin\Debug\netcoreapp3.1\KiemTraNamNhuan.dll
+E:\C#\Kiem-Tra-Nam-Nhuan\bin\Debug\netcoreapp3.1\KiemTraNamNhuan.pdb
+E:\C#\Kiem-Tra-Nam-Nhuan\obj\Debug\netcoreapp3.1\KiemTraNamNhuan.genruntimeconfig.cache

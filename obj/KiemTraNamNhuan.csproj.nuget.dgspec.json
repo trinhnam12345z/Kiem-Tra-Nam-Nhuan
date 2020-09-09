@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\KiemTraNamNhuan\\KiemTraNamNhuan.csproj": {}
+    "E:\\C#\\Kiem-Tra-Nam-Nhuan\\KiemTraNamNhuan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\KiemTraNamNhuan\\KiemTraNamNhuan.csproj": {
+    "E:\\C#\\Kiem-Tra-Nam-Nhuan\\KiemTraNamNhuan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\KiemTraNamNhuan\\KiemTraNamNhuan.csproj",
+        "projectUniqueName": "E:\\C#\\Kiem-Tra-Nam-Nhuan\\KiemTraNamNhuan.csproj",
         "projectName": "KiemTraNamNhuan",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\KiemTraNamNhuan\\KiemTraNamNhuan.csproj",
+        "projectPath": "E:\\C#\\Kiem-Tra-Nam-Nhuan\\KiemTraNamNhuan.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\KiemTraNamNhuan\\obj\\",
+        "outputPath": "E:\\C#\\Kiem-Tra-Nam-Nhuan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
